@@ -1,5 +1,5 @@
 # 🎁 Challenge: Amigo Secreto  
-**by Mateus Rodrigues**
+
 
 Este projeto consiste em um desafio de JavaScript, cujo objetivo é implementar um **sorteador de amigo secreto** de forma interativa.
 
