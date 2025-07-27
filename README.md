@@ -30,7 +30,17 @@ Abaixo está a demonstração do funcionamento:
 
 1. Clone este repositório:
    ```bash
-   git clone 
+   git clone git@github.com:Covvalente/challenge-amigo-secreto_pt_Mateus.git
+2.Navegue até a pasta:
+   cd amigo-secreto
+   
+3.Abra o arquivo index.html no navegador
+## ✨ Funcionalidades
+
+- ✅ Adição de participantes
+- ✅ Sorteio automático e justo
+- ✅ Reset da lista e dos resultados
+- ✅ Exibição dos pares sorteados
 
 ## 📬 Contato
 
