@@ -42,6 +42,12 @@ Abaixo está a demonstração do funcionamento:
 - ✅ Reset da lista e dos resultados
 - ✅ Exibição dos pares sorteados
 
+## 🔗 Projeto online
+
+Acesse a versão online do projeto clicando abaixo:
+
+👉 [**challenge-amigo-secreto**](https://challenge-amigo-secreto-pt-mateus-c.vercel.app)
+
 ## 📬 Contato
 
 Feito com ❤️ por **Mateus Rodrigues**  
